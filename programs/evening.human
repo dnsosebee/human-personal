@@ -1,30 +1,27 @@
+# evening.human
+
 HOW TO have a more fulfilling evening
 
 # set the stage for a successful run
 	Resolve to give this program your undivided attention.
 
-# do DYL journalling
-	Open your DYL journal, write the shorthand date, and fill in todays activities, noting engagement, flow, and energy.
+# @REMOVED because I got a good 2-weeks of data to work with
+	# do DYL journalling
+		# Open your DYL journal, write the shorthand date, and fill in todays activities, noting engagement, flow, and energy.
 
 # @REMOVED because it led to flow-interrupt / low-motivation
 	# FOLLOWING meditation/waking_up_10.human, perform a Waking Up App 10-minute meditation
 
 # learn
 	Open Roam and go to your todo list, information review section. For each item on the list, review the notes, encoding and tagging for anki with \#D/c
-	Go to [[D/c]] and move everything to Anki 
+	Go to [[D/c]] and move everything to Anki, migrating Roam information to \#D/cards
 
-# do what's important
-	Resolve to be off screens by 10pm.
-	Check out your principle of the day in Roam, just to keep it top of mind.
-	If you have time to do an active prototype today, add the prototype to next.human, in detail. Remember to include an instruction for moving it to completed prototypes.
-	Get out your journal and look at yesterday's entry, focusing on (I)mproves and (L)aters, and read your Roam to-do.
-	Fill out 'next.human' based on things that you'd like to get done this evening. (NOTE: you will fully execute next.human! Have care, and shoot for a 9:30 or earlier finish).
-	FOLLOWING ./next.human: do the most pressing things right now
-	Open next.human and delete the old program.
+# GSD
+	FOLLOWING ./GSD.human, do high priority one-time tasks for today using the file [next/evening.human]
 
 # iterate
 	Consider: is there any way you could improve your daily programs? If so, make changes now. Be creative! Nothing is off-limits, but keep your best interest in mind.
-	Ask Siri the following, "set a reminder for tomorrow at 7:30AM to 'execute morning'"
+	# @ROUTINED set a reminder to run this program the next evening.
 
 # prepare for the next day
 	To finish this program, fill the WUSA Leage water bottle and put it by your bedside, and clean your room.

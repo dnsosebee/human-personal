@@ -1,12 +1,18 @@
 # weekend.human
+
 HOW TO perform review and system improvement on my organizational systems and programs
 
-# prototyping
-	Make sure I completed a prototype this week. If not, complete one now.
-	Enact systemic changes to make my prototyping smoother.
+# @ REMOVED because I don't always have the time or energy to do a prototype, so should do more incremental work
+	# prototyping
+		# Make sure I completed a prototype this week. If not, complete one now.
+		# Enact systemic changes to make my prototyping smoother.
 
-# collecting
+# collect
 	Run LIFE # TODO: add more steps to this
 
-make this program better
-ask siri to set a reminder for next Saturday to execute human weekend.human
+# do
+	FOLLOWING ./GSD.human do high priority one-time tasks for today using the file [next/evening.human]
+
+# iterate
+	make this program better
+	ask siri to set a reminder for next Saturday to execute human weekend.human
