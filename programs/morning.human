@@ -2,7 +2,7 @@
 
 HOW TO have a more fulfilling morning
 
-# @ROUTINES (program these if you lose any of them)
+# @ROUTINES (re-program these if you lose any of them)
 	# Drink some water
 	# Brush teeth
 	# Go outside
@@ -10,17 +10,21 @@ HOW TO have a more fulfilling morning
 		# meditate (FOLLOWING meditation/15_minutes.human do a meaningful 15 minute self guided meditaion)
 	# set your phone to 'do not disturb'
 
-# Set yourself up for success
+FOLLOWING ./set_work_environment.human, set up a comfortable and distraction-free work environment
+
+# Set yourself up for succesful day
 	# Set your daily principle
-		Write a principle in Roam [[D/principle of the day]] and write a single concise sentence of how you can apply that principle today.
+		Review yesterday's daily principle in Logseq [[D/principle of the day]], and write down how you succeeded or failed to apply that principle.
+		Write a new principle and a single concise sentence of how you can apply that principle today.
 
 # learn
 	open anki and finish your review stack
 
 # iterate
 	Consider: is there any way you could improve your daily programs? If so, make changes now. Be creative! Nothing is off-limits, but keep your best interest in mind.
-	Ask Siri the following, "set a reminder for tomorrow at 7:30AM to 'execute morning'". # TODO: make a seperate program for scheduling?
-	IF you would benefit from an evening program today, THEN schedule one as well ('execute evening').
+	# @ROUTINED Ask Siri the following, "set a reminder for tomorrow at 7:30AM to 'execute morning'". # TODO: make a seperate program for scheduling?
+	Look at projects and todo, and decide if you would benefit from a daily program today.
+	IF you would benefit from a daily program today, THEN schedule one ('execute daily').
 
 # move on
 	You are done. Close the computer and get some physical activity.
